@@ -1,5 +1,7 @@
-# Don's Master Code-learned Document
-puts "Don's Master Code Run LRTHW Ex 1 thru 7"
+puts "BELOW IS 'MY OWN' CODE 'Don Kingery' AS LEARNED FROM LRTHW EX. 1-7"
+
+puts "_" * 50 #many under bars  
+
 
 # all after octothorpe prints not
 puts "now you see it, but after octothorpe; you don't....." # now you don't
@@ -91,7 +93,13 @@ print end1 + end2 + end3
 
 puts  "What the $%@# !!!!!"
 puts end4 + end5 + end6
-
 puts "." * 30 #whoa boy here goes!!!
 puts "'Common Guys!!' Gimmee a Break!!"
 
+puts "From ex_7 shows how to place a #{'text string'} within a variable curly bracket"
+
+puts "And my last 1-7 trick will be Left and rights"
+	l= " -This is Left of Center- "
+	c= " -This is Center- "
+	r= " -This is Right of Center"
+puts l + c + r
