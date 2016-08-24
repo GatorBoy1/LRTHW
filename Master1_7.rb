@@ -76,5 +76,22 @@ puts "I rather also implied: #{m}"
 emphasis = true
 extra_comment = "It's great to live in this beautiful state!!! #{emphasis}"
 puts extra_comment
+puts "Ok,,, a bit late but here is #{'Assignment'} 7."
+puts "A" * 1
+puts "B" * 2
+puts "C" * 3
+end1 = "W"
+end2 = "T"
+end3 = "F.... Means: "
+end4 = "O"
+end5 = "K,,,,"
+end6 = "I GET IT !!!! "
 
+print end1 + end2 + end3
+
+puts  "What the $%@# !!!!!"
+puts end4 + end5 + end6
+
+puts "." * 30 #whoa boy here goes!!!
+puts "'Common Guys!!' Gimmee a Break!!"
 
